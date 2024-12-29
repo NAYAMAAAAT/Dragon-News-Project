@@ -22,8 +22,6 @@ Welcome to **The Dragon News Portal**, the server-side infrastructure that power
   - **Vercel Integration for Data Loading**: Leverage Vercel to load data efficiently from the backend, contributing to the overall performance and responsiveness of the news portal.
 
 
-## Deployment
-- The application is deployed on Vercel, ensuring high availability and performance.
 
 ## Tech Stack
 - **Client**: React, React Router, React Bootstrap
