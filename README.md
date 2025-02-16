@@ -41,5 +41,5 @@ Hi, I am **Atef**. I have built multiple projects using these skills. You are in
 
 ---
 
-Explore the backend architecture that powers The Dragon News Portal and supports its dynamic features. Your journey to a personalized news experience begins here! 🐉🌐
+Explore the backend architecture that powers The Dragon News Portal and supports its dynamic features. Your journey to a personalized news experience begins here! 🐉
 
